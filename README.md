@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sahni2003gaurav
-- 👀 I’m interested in Tech
-- 🌱 I’m currently learning Javascript
+- 👀 I’m working in Tech
+- 🌱 I write in Dart.
 - 💞️ I’m looking to collaborate with young coders
 - 📫 How to reach me ... instagram-gauravsahni_10
 
